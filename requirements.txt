@@ -1,4 +1,3 @@
-requests
-aiohttp
-aiohttp-retry
-faker
+fake_headers==1.0.2
+fastapi==0.78.0
+requests==2.32.4
